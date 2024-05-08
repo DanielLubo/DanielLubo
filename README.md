@@ -1,6 +1,4 @@
-<h2> Hey there! I'm Daniel </h2>
-
-### &nbsp;About Me
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
@@ -8,21 +6,18 @@
 🔍 &nbsp;I have a strong interest in Software Engineering and Design.\
 ✉️ &nbsp;You can shoot me an email at danielfelipelubo@gmail.com!
 
-```javascript
-
-const I'm = {
-  name: 'Daniel Lubo',
-  currentEdu: "Servicio Nacional de Aprendizaje SENA",
-  currentJob: 'I’m currently working on I am a Student',
-  currentlyLearning: "Javascript, TypeScript, React, NextJS, Astro, NodeJS and Docker",
-};
+```json
+{
+  "name": "Daniel Lubo",
+  "currentEdu": "Servicio Nacional de Aprendizaje SENA",
+  "currentJob": "I’m currently working on I am a Student",
+  "currentlyLearning": "Javascript, TypeScript, React, NextJS, Astro, NodeJS and Docker",
+}
 ```
-
-
-
-
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<div>
+  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+  <img alt="Hola" height="70px" width="70px" align="right" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+</div>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -41,3 +36,11 @@ const I'm = {
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png'> </a>
+<h2>Stats</h2>
+
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLubo&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLubo&langs_count=8&theme=github_dark&layout=compact)
+<br>
