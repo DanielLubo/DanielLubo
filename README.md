@@ -1,7 +1,7 @@
 <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel</h2>
 <img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<p>Hello, as you can see, this github is new and does not have many projects uploaded, this is because I have created this github to be able to show my progress and upload my projects in a more organized way as well as upload other projects that interest me, so that way I will go creating my portfolio so I could get my first job as a FrontEnd developer.
-I hope you like the projects, I have ideas that I will be uploading over time :p</p>
+<p>Hello, as you can see this github is new and does not have many projects uploaded, this is because I am a software development student and I have created this github to be able to show my progress and upload my projects in a more organized way as well as upload other projects that interest me, so that way I will create my portfolio to be able to get my first job as a FrontEnd developer.
+I hope you like the projects, I have ideas that I will upload over time :p</p>
 <h2>About me</h2>
 
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
@@ -39,11 +39,21 @@ I hope you like the projects, I have ideas that I will be uploading over time :p
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png'> </a>
-<h2>Stats</h2>
+
+## <b> Github Stats </b><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+
 
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLubo&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLubo&langs_count=8&theme=github_dark&layout=compact)
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![@daniellubo](https://img.icons8.com/fluency/48/000000/instagram-new.png "@not.denail")](https://www.instagram.com/not.denail/) [![@daniellubo](https://img.icons8.com/fluency/48/000000/facebook.png "@daniellubo")](https://www.facebook.com/danielLubor) [![@daniellubo](https://img.icons8.com/fluency/48/000000/linkedin.png "@daniellubo")](https://www.linkedin.com/in/danilubo/) [![@daniellubo](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@not.denail")](https://twitter.com/not_Denail)
+
 <br>
