@@ -1,5 +1,8 @@
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel</h2>
 <img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<p>Hello, as you can see, this github is new and does not have many projects uploaded, this is because I have created this github to be able to show my progress and upload my projects in a more organized way as well as upload other projects that interest me, so that way I will go creating my portfolio so I could get my first job as a FrontEnd developer.
+I hope you like the projects, I have ideas that I will be uploading over time :p</p>
+<h2>About me</h2>
 
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
 💻 &nbsp;I am mainly a FrontEnd Developer.\
