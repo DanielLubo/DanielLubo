@@ -1,4 +1,4 @@
-<h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Daniel</h2>
+<h2>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Daniel</h2>
 <img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <p>Hola soy Daniel, soy estudiante del SENA y actualmente estoy estudiando en el programa de OracleONE para potenciar mis conocimientos y habilidades como desarrollador de software </h2>
 
@@ -31,14 +31,6 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png'> </a>
 
 ## <b> Github Stats </b><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
-
-
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLubo&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLubo&langs_count=8&theme=github_dark&layout=compact)
-<br>
 
 ## Connect with me ☕ :
 
