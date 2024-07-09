@@ -1,22 +1,12 @@
-<h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel</h2>
+<h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Daniel</h2>
 <img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<p>Hello, as you can see this github is new and does not have many projects uploaded, this is because I am a software development student and I have created this github to be able to show my progress and upload my projects in a more organized way as well as upload other projects that interest me, so that way I will create my portfolio to be able to get my first job as a FrontEnd developer.
-I hope you like the projects, I have ideas that I will upload over time :p</p>
-<h2>About me</h2>
+<p>Hola soy Daniel, soy estudiante del SENA y actualmente estoy estudiando en el programa de OracleONE para potenciar mis conocimientos y habilidades como desarrollador de software </h2>
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-💻 &nbsp;I am mainly a FrontEnd Developer.\
-🔍 &nbsp;I have a strong interest in Software Engineering and Design.\
-✉️ &nbsp;You can shoot me an email at danielfelipelubo@gmail.com!
+💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.\
+💻 &nbsp; Soy principalmente desarrollador FrontEnd.\
+🔍 &nbsp; Tengo un fuerte interés en la Ingeniería y Desarrollo de Software.\
+✉️ &nbsp; Puedes escribirme a mi correo: danielfelipelubo@gmail.com!
 
-```json
-{
-  "name": "Daniel Lubo",
-  "currentEdu": "Servicio Nacional de Aprendizaje SENA",
-  "currentJob": "I’m currently working on I am a Student",
-  "currentlyLearning": "Javascript, TypeScript, React, NextJS, Astro, NodeJS and Docker",
-}
-```
 <div>
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <img alt="Hola" height="70px" width="70px" align="right" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
