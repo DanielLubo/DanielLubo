@@ -1,9 +1,9 @@
 <h2>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Daniel</h2>
 <img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<p>Hola soy Daniel, soy estudiante del SENA y actualmente estoy estudiando en el programa de OracleONE para potenciar mis conocimientos y habilidades como desarrollador de software </h2>
+<p>Hola soy Daniel, soy estudiante del SENA y actualmente estoy estudiando en el programa de OracleONE para potenciar mis conocimientos y habilidades como desarrollador de software. Esta cuenta de GitHub es nueva pero con el tiempo ire subiendo los respositorios de los proyectos o cosas de interes que puedan demostrar mis conocimientos y sobre todo crear mi portafolio como desarrollador. Muchas gracias por pasarte por mi perfil.</h2>
 
-💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.\
-💻 &nbsp; Soy principalmente desarrollador FrontEnd.\
+💡 &nbsp;  Me gusta explorar y aprender nuevas tecnologías.\
+💻 &nbsp; Estoy aprendiendo desarrollo FrontEnd como BackEnd.\
 🔍 &nbsp; Tengo un fuerte interés en la Ingeniería y Desarrollo de Software.\
 ✉️ &nbsp; Puedes escribirme a mi correo: danielfelipelubo@gmail.com!
 
