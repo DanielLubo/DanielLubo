@@ -1,4 +1,4 @@
-<h2>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Daniel</h2>
+<h1>Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Soy Daniel</h1>
 <img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <p>Soy estudiante del SENA y actualmente estoy estudiando en el programa de OracleONE para potenciar mis conocimientos y habilidades como desarrollador de software. Esta cuenta de GitHub es nueva pero con el tiempo ire subiendo los respositorios de los proyectos o cosas de interes que puedan demostrar mis conocimientos y sobre todo crear mi portafolio como desarrollador. Muchas gracias por pasarte por mi perfil.</h2>
 
