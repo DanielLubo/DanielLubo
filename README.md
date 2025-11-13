@@ -16,6 +16,8 @@ Me apasiona crear interfaces **limpias, intuitivas y centradas en el usuario**, 
 🌱 **Objetivo:** Conseguir mi primer trabajo como Frontend Junior  
 🎨 **Intereses:** UI/UX Design, Minimalismo, Neomorfismo
 
+<br>
+
 ## Skills - Frontend <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <a><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
@@ -47,29 +49,10 @@ Me apasiona crear interfaces **limpias, intuitivas y centradas en el usuario**, 
 
 <br>
 
-## GitHub Stats
+## GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <div align="left">
   <img width="44.7%" src="https://github-readme-stats.vercel.app/api?username=DanielLubo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLubo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Most Used Languages"/>
 </div>
-
-<br>
-
-## Conecta conmigo <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-**¿Tienes un proyecto? ¿Buscas colaborar? Hablemos.**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/danilubo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>  
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:danielfelipelubo@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Gmail"/>
-  </a>
-</p>
-
-**LinkedIn:** [linkedin.com/in/danilubo](https://www.linkedin.com/in/danilubo/)  
-**Email:** [danielfelipelubo@gmail.com](mailto:danielfelipelubo@gmail.com)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:063F53,20:095E7C,40:0C7CA5,60:0F9BCE,80:1BB6EE,100:44C3F1&height=120&section=footer"/>
