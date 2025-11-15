@@ -39,11 +39,9 @@ Me apasiona crear interfaces **limpias, intuitivas y centradas en el usuario**, 
 ## Tools & Design <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <a><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></a>
-<a><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></a>
 <a><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"></a>
 <a><img width='50px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg"></a>
 <a><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"></a>
-<a><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg"></a>
 <a><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></a>
 <a><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></a>
 
