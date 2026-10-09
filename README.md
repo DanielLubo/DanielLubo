@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:063F53,20:095E7C,40:0C7CA5,60:0F9BCE,80:1BB6EE,100:44C3F1&height=180&section=header&text=Daniel%20Lubo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1BB6EE&center=true&vCenter=true&random=false&width=600&lines=FrontEnd+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1BB6EE&center=true&vCenter=true&random=false&width=600&lines=Desarrollador+Web;Diseñador+UX%2FUI" alt="Typing SVG" />
 </h3>
 </div>
 
